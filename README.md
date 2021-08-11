@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Discord Presence](https://r10-iletisim.herokuapp.com/api/telegram_profile/hkeydesign)](https://discord.com/users/12)
+[![Discord Presence](https://r10-iletisim.herokuapp.com/api/telegram_profile/hkeydesign)](https://t.me/pyturkey)
